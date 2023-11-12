@@ -14,7 +14,6 @@ J4,PinSocket_2x20_P2.54mm_Vertical,1,ESQ-120-23-T-D,
 J5,61201621621_2x8-2.54,1,61201621621,
 J6,PinHeader_1x04_P2.54mm_Vertical,optional,,
 J7,01X02_5mm_pitch,1,Conn_01x02,
-N1,treceit,1,Housing,
 "R1, R2",603,optional,3.9k,Not mounted
 "R10, R11, R14, R16, R17, R6, R7, R8, R9",603,9,75R,
 R12,603,1,47R,
